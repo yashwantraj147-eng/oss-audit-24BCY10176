@@ -47,7 +47,7 @@ This repository contains the full report, all five shell scripts, and supporting
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/yashwantraj/oss-audit-24BCY10176.git
+git clone https://github.com/yashwantraj147-eng/oss-audit-24BCY10176.git
 cd oss-audit-24BCY10176
 ```
 
